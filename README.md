@@ -145,19 +145,11 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=much-aneesh&row=3&column=4&no-bg=true"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=much-aneesh&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=much-aneesh"/>
         </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=much-aneesh&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=much-aneesh&langs_count=10&layout=compact&hide=python,javascript,xml,css"/>
-        </td>
     </tr>
 </table>
 
