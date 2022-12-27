@@ -151,6 +151,11 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=much-aneesh"/>
         </td> 
     </tr>
+    <tr>
+        <td>
+            [(https://github-readme-stats.vercel.app/api/top-langs/?username=much-aneesh&layout=compact)](https://github.com/much-aneesh/github-readme-stats)
+        </td>
+    </tr>
 </table>
 
 
