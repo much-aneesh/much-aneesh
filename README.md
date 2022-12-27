@@ -153,7 +153,7 @@
     </tr>
     <tr>
         <td>
-            [(https://github-readme-stats.vercel.app/api/top-langs/?username=much-aneesh&layout=compact)](https://github.com/much-aneesh/github-readme-stats)
+            https://github-readme-stats.vercel.app/api/top-langs/?username=much-aneesh&layout=compact
         </td>
     </tr>
 </table>
