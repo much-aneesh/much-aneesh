@@ -6,13 +6,8 @@
 - 🌱 I’m currently learning: Data Science
 - 💬 Ask me about OdooERP
 
-<br/>
-
 ### Contact me:
-
 <a href="https://www.linkedin.com/in/aneeshav03/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-
-### Toolset
 
 <!--<table>
     <tr>
@@ -150,18 +145,18 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=colinbut&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=much-aneesh&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=much-aneesh"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=much-aneesh&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=much-aneesh&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
 </table>
