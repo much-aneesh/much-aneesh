@@ -9,12 +9,6 @@
 ### Contact me:
 <a href="https://www.linkedin.com/in/aneeshav03/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
-<ul>
-	<li><a href="#">Home</a> |</li>
-	<li><a href="#">About Us</a> |</li>
-	<li><a href="#">Cheeses</a></li>
-</ul>
-
 <!--<table>
     <tr>
         <td>Automation Tooling</td>
