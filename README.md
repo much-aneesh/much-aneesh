@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at much. as a Team Lead/Senior Odoo Developer
 - 🌱 I’m currently learning: Data Science
-- 💬 Ask me about OdooERP
+- 💬 Ask me about Odoo ERP
 
 ### Contact me:
 <a href="https://www.linkedin.com/in/aneeshav03/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
@@ -156,7 +156,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=much-aneesh&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=much-aneesh&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=much-aneesh&langs_count=10&layout=compact&hide=python,javascript,xml,css"/>
         </td>
     </tr>
 </table>
